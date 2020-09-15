@@ -1,0 +1,21 @@
+__astcache
+__recovery
+__history
+Win64
+Win32
+*sync-conflict*
+* Kopie*
+* Kopie *
+*.*~
+*.bak
+*.orig
+*.strings
+*.txt
+*.~dsk
+*.bmp
+*.stat
+*.diff
+*.res
+*.cache
+*.optset
+*.cbproj.local
